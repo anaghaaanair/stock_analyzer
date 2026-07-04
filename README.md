@@ -1,2 +1,9 @@
 # stock_analyzer
-A beginner quantitative finance project that analyzes historical stock data and computes key financial metrics.
+Stock Intelligence Dashboard
+
+Features:
+- Real time stock data
+- Financial metrics
+- Price charts
+- News sentiment analysis
+- Economic insights (coming soon)
